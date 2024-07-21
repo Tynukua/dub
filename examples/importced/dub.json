@@ -1,4 +1,5 @@
 {
 	"name": "importced",
-	"description": "Example of use ImportC feature"
+	"description": "Example of use ImportC feature",
+	"cSourcePaths": ["source"]
 }
